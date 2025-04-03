@@ -1,0 +1,4 @@
+I learned more concepts of MLops and wrote an article on medium
+
+https://hermanmotcheyo.medium.com/mlops-explained-a-deep-dive-into-machine-learning-operations-ab9342c5c90d
+
