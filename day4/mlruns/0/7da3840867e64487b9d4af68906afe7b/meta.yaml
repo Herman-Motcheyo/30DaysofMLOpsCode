@@ -1,0 +1,15 @@
+artifact_uri: file:///home/herman/Documents/Career/30DaysofMLOpsCode/day4/mlruns/0/7da3840867e64487b9d4af68906afe7b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7da3840867e64487b9d4af68906afe7b
+run_name: charming-goat-526
+run_uuid: 7da3840867e64487b9d4af68906afe7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743965172072
+status: 1
+tags: []
+user_id: herman
