@@ -2,6 +2,10 @@
 
 This project is a complete Machine Learning pipeline that includes model training, batch predictions, and an interactive web app using **Streamlit**, **DVC**, and **Docker**. It also integrates with **DagsHub** for version control and experiment tracking.
 
+**Github link** : https://github.com/Herman-Motcheyo/ML-pipeline-with-DVC-Dagshub-Mlflow
+
+**Dagshub link** : https://dagshub.com/Herman-Motcheyo/ML-Project-Docker
+
 ---
 
 ## Features
