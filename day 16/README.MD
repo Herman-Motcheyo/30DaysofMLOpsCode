@@ -78,4 +78,4 @@ This ETL pipeline is designed as a foundation for:
 
 ---
 
-![alt text](<flow_challege (1).jpg>)
+![alt text](<flow_challege (2).jpg>)
