@@ -49,9 +49,9 @@ An enhanced version of the ML pipeline that uses **Airflow's TaskFlow API** to d
 Source code : https://github.com/Herman-Motcheyo/First-DAG-with-Apache-Airflow/blob/main/dags/taskflowapi.py
 ---
 
-![alt text](</day13/img/Capture d’écran du 2025-04-19 23-29-17.png>)
-![alt text](</day13/img/Capture d’écran du 2025-04-19 23-30-45.png>)
-![alt text](</day13/img/Capture d’écran du 2025-04-19 23-32-23.png>)
+![alt text](<img/image copy.png>)
+![alt text](img/image.png)
+
 Deploy Your Project Locally
 ===========================
 
